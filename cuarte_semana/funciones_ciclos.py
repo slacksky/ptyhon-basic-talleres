@@ -86,4 +86,4 @@ def board_builder(longitud, black, white):
 
 
   ##usar un template para cada cuadrado y poner for anidados para crear la cuadricula
-  return "No implementada aún"
+  ##return "No implementada aún"
