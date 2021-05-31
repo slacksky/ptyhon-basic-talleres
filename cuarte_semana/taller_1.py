@@ -12,14 +12,14 @@ import funciones_ciclos as f
 
 
 def main():
-    #TODO: 2 a 4 funciones
+    #TODO: 3 a 4 funciones
 
     
     #dist=float(input("ingrese la altura: "))
     #f.simulador_caida_libre(dist)
-    generacion=int(input("cuantas generaciones hacia atras quieres visualizar?:"))
-    total_personas=f.generador_generaciones(generacion)
-    print("en estas ",generacion," generaciones, han habido, ",total_personas," personas ")
+    #generacion=int(input("cuantas generaciones hacia atras quieres visualizar?:"))
+    #total_personas=f.generador_generaciones(generacion)
+    #print("en estas ",generacion," generaciones, han habido, ",total_personas," personas ")
 
 
 
